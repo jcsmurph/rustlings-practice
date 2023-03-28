@@ -1,0 +1,11 @@
+/home/jakemurphy/Code/Rust_Projects/rustlings/target/debug/deps/indicatif-5623e5017b66b1a5.rmeta: /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs
+
+/home/jakemurphy/Code/Rust_Projects/rustlings/target/debug/deps/indicatif-5623e5017b66b1a5.d: /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs /home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs
+
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/lib.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/format.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/iter.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/progress_bar.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/state.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/style.rs:
+/home/jakemurphy/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.16.2/src/utils.rs:
